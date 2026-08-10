@@ -1,0 +1,7 @@
+# 编译产物
+o/Objects
+o/Listings
+**/RTE/
+
+# Keil 个人界面配置
+*.uvguix.*
